@@ -34,3 +34,4 @@ A simple Notes application with CRUD operations and sharing functionality.
 ## Deployment
 
 The app is configured for deployment on Vercel.
+my deployed notes-app -- https://notes-cvcnn007l-ekrar-raza-khans-projects.vercel.app/
